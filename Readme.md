@@ -1,4 +1,4 @@
-# 🚦 Road Accident Risk Prediction – Kaggle Playground Series S5E10  
+# Road Accident Risk Prediction – Kaggle Playground Series S5E10  
 
 This repository contains our solution for the **Kaggle Playground Series – Season 5, Episode 10 (S5E10)** competition.  
 The competition challenges participants to predict **accident risk scores** for road segments based on their characteristics, environmental conditions, and historical accident data.  
