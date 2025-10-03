@@ -118,9 +118,9 @@ We built an **ensemble of gradient boosting models**, each trained with tuned pa
 - **LightGBM CV RMSE**: ~0.0560  
 - **XGBoost CV RMSE**: ~0.0562  
 - **CatBoost CV RMSE**: ~0.0558  
-- **🔥 Ensemble CV RMSE**: **~0.0554**  
+- **Ensemble CV RMSE**: **~0.0554**  
 
-✅ Our ensemble model consistently performs better than individual models.  
+Our ensemble model consistently performs better than individual models.  
 
 ---
 
